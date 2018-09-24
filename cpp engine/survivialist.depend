@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1537456212 source:c:\users\user\desktop\survivialist\animation.cpp
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<iostream>
+	"animation.h"
+
+1537470386 c:\users\user\desktop\survivialist\animation.h
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<iostream>
+
+1537364574 source:c:\users\user\desktop\survivialist\enginecontrol.cpp
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Window/Mouse.hpp>
+	<iostream>
+	"enginecontrol.h"
+
+1537364360 c:\users\user\desktop\survivialist\enginecontrol.h
+	<SFML/Graphics/RenderWindow.hpp>
+	<iostream>
+
+1537471760 source:c:\users\user\desktop\survivialist\engineobjects.cpp
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<iostream>
+	"engineobjects.h"
+
+1537207488 c:\users\user\desktop\survivialist\engineobjects.h
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<iostream>
+
+1537470342 source:c:\users\user\desktop\survivialist\gameplayengine.cpp
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<iostream>
+	"gameplayengine.h"
+
+1537470296 c:\users\user\desktop\survivialist\gameplayengine.h
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<iostream>
+	<cstdlib>
+
+1537451556 source:c:\users\user\desktop\survivialist\texturetools.cpp
+	<SFML/Graphics/Texture.hpp>
+	<iostream>
+	<vector>
+	"texturetools.h"
+
+1537456879 c:\users\user\desktop\survivialist\texturetools.h
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<iostream>
+	<vector>
+
+1537468145 source:c:\users\user\desktop\survivialist\timetools.cpp
+	<SFML/System/Clock.hpp>
+	<iostream>
+	<vector>
+	"timetools.h"
+
+1537468141 c:\users\user\desktop\survivialist\timetools.h
+	<SFML/System/Clock.hpp>
+	<iostream>
+
+1537567716 source:c:\users\user\desktop\survivialist\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<ostream>
+	<sstream>
+	"texturetools.h"
+	"animation.h"
+	"engineobjects.h"
+	"timetools.h"
+	"enginecontrol.h"
+	"gameplayengine.h"
+
